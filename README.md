@@ -50,7 +50,7 @@ $ cd ~/ros2ws/src
 ```
 $ cd ~/ros2ws/src
 $ ros2 pkg create --build-type ament_python r2cvr
-$ cd ~/ros2
+$ cd ~/ros2ws
 ```
 このディレクトリーでビルトします。
 ```
