@@ -143,4 +143,6 @@ $ ros2 bag record -o topic.bag /img_topic
 > 
 > record:  Record ROS data to a bag
 > 
+$ 同一ネットワーク内で複数ROS2を使用する
+> $ export ROS_DOMAIN_ID=1
 
